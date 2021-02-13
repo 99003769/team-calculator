@@ -14,7 +14,7 @@ int main()
    {
        case '+': 
        result=number_1+number_2;
-       printf("addition performed is %lf",result); 
+       printf("addition is %lf",result); 
                break; 
        case '-':
        result=number_1-number_2;
