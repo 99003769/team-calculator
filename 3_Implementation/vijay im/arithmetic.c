@@ -13,29 +13,28 @@ int main()
     switch (operation) 
    {
        case '+': 
-       result=number_1+number_2;
-       printf("addition is %lf",result); 
-               break; 
+        result=number_1 + number_2;
+        printf("addition is %lf",result); 
+        break; 
        case '-':
-       result=number_1-number_2;
-       printf("subtraction is %lf",result); 
-                break; 
+        result=number_1 - number_2;
+        printf("subtraction is %lf",result); 
+        break; 
        case '*':
+        result=number_1 * number_2;
         printf("multiplication is %lf"); 
-               break; 
+        break; 
        case '/':
-       if(number_2==0)
-          {
-            printf("math error");
-            break;
-          }
-         else
-         {
-             result=number_1/number_2;
-            printf("division is %lf",result);  
-                break;
-         }
-   } 
+            if(number_2==0)
+                {
+                 printf("math error");
+                }
+            else
+                {
+                result = number_1/number_2;
+                printf("division is %lf",result);
+                }
+   } break;
  
      return 0;
 }
