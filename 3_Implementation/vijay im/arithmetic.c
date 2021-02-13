@@ -34,7 +34,8 @@ int main()
                 result = number_1/number_2;
                 printf("division is %lf",result);
                 }
-   } break;
+        break;
+    }
  
      return 0;
 }
