@@ -61,5 +61,5 @@ Calculator is a scientific device which is used to perform calculations,like ari
 - **Length, breadth, height**
 - **Fahrenheit, Celsius**
 - **BODMAS**
-- **If divide by zero it will show &quot;cant divide by zero&quot;**
+- **formuslae for trignometric calculations**
 - **Digits 0-9.**
