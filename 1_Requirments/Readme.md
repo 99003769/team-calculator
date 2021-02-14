@@ -7,8 +7,8 @@ Calculator is a scientific device which is used to perform calculations,like ari
 ![Description](Link to Pic)
 -- Content 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+![IMG_20210214_180921](https://user-images.githubusercontent.com/78857458/107877147-9242f480-6ef0-11eb-8dd7-5e5d3efa82a7.jpg)
+
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
