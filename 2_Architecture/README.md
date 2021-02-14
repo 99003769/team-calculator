@@ -15,5 +15,5 @@
 ![LLD1 by Ankit](https://user-images.githubusercontent.com/78853972/107875070-cfed5080-6ee3-11eb-9ebf-ed00c67c5623.png)
 ![download](https://user-images.githubusercontent.com/78853972/107875166-50ac4c80-6ee4-11eb-93d3-e912f1712273.png)
 ![Volume Diagram LLR](https://user-images.githubusercontent.com/78857458/107875062-c9f76f80-6ee3-11eb-93be-5f24da916caf.jpg)
-![vijayactivity](https://user-images.githubusercontent.com/78857841/107876170-573dc280-6eea-11eb-8f9d-e1a0c09d99d9.jpg)
 ![vijayactivity](https://user-images.githubusercontent.com/78857841/107876207-9c61f480-6eea-11eb-8eb6-1f4d2cb9f340.jpg)
+![package llr vijay temperature](https://user-images.githubusercontent.com/78857841/107876338-63764f80-6eeb-11eb-8ff9-8c9ce90e49b4.jpg)
