@@ -57,9 +57,9 @@ Calculator is a scientific device which is used to perform calculations,like ari
 
 
 ##  Low level Requirements:
-- **Addition, subtraction, multiplication, division, modules**
+- **Addition, subtraction, multiplication, division modules**
 - **Length, breadth, height**
-- **Fahrenheit, Celsius**
+- **Fahrenheit, Celsius temperature values**
 - **BODMAS**
-- **formuslae for trignometric calculations**
-- **Digits 0-9.**
+- **formulae for trignometric calculations**
+- **Allow Digits 0-9.**
