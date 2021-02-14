@@ -54,5 +54,9 @@
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+- **Addition, subtraction, multiplication, division, modules**
+- **Length, breadth, height**
+- **Fahrenheit, Celsius**
+- **BODMAS**
+- **If divide by zero it will show &quot;cant divide by zero&quot;**
+- **Digits 0-9.**
