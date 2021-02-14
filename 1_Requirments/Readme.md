@@ -8,13 +8,13 @@ Calculators range from few hundreds to few thousands of rupees based on the feat
 ![TOUCHCAL-Touchscreen-Scientific-Calculator-2](https://user-images.githubusercontent.com/78857841/107878239-35970800-6ef7-11eb-9a86-d977480e0a5d.jpg)
 These touch calculators can range from thousand of rupees.But they offer a lot more features than the standard scientific calculators.
 ![414USefbELL _SX425_](https://user-images.githubusercontent.com/78857841/107878265-624b1f80-6ef7-11eb-8d20-d5cae7a30274.jpg)
-These touch calculators can also display graphs in pictorial representation form. 
--- Content 
+These touch calculators can also display graphs in pictorial representation form.
 ## Cost and Features
 ![IMG_20210214_180921](https://user-images.githubusercontent.com/78857458/107877147-9242f480-6ef0-11eb-8dd7-5e5d3efa82a7.jpg)
 
 ## Defining Our System
-    -- TBD
+As the name describes that it is a smart calculator, it can do complex operations in less time and is user friendly we can do various type of operations in it.
+It has inputs for arithmetic calculations,temperature conversion,dimension conversion and a lot more.
 ## SWOT ANALYSIS
 
 ![SWOT-page0001](https://user-images.githubusercontent.com/78857458/107876259-f1056f80-6eea-11eb-868c-049350074b1a.jpg)
