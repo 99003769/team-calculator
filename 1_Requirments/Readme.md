@@ -1,7 +1,6 @@
 # Requirements
 ## Introduction
-Calculator is a scientific device which is used to perform calculations,like arithmetic calculations,logical calculations, exponential calculations,trignometic calculations and much more. In some calculators,we can also insert equations in raw format and we can obtain the results.Calculators are very handy and portable.
-
+ --- TBD 
 
 ## Research
 ![Description](Link to Pic)
@@ -12,31 +11,18 @@ Calculator is a scientific device which is used to perform calculations,like ari
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-
 ![SWOT-page0001](https://user-images.githubusercontent.com/78857458/107876259-f1056f80-6eea-11eb-868c-049350074b1a.jpg)
-
-
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who: This Calculator can be usefull for everyone especially for scientist and student.
 
-**TBD**
+## What: Its a smart scientific calculator with memory.
 
-## What:
+## When:For fast,efficient and complex calculations, for storing data.
 
-**TBD**
+## Where:To do complex Calculations,Statistics(Compare the previous data with present data)
 
-## When:
-
-**TBD**
-
-## Where:
-
-**TBD**
-
-## How:
-
-**TBD**
+## How:Easy to user interface
 
 # Detail requirements
 ## High Level Requirements: 
