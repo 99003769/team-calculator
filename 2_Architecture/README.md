@@ -13,5 +13,6 @@
 
 --- TBD Structural and Behavioural Diagram
 ![LLD1 by Ankit](https://user-images.githubusercontent.com/78853972/107875070-cfed5080-6ee3-11eb-9ebf-ed00c67c5623.png)
-![download](https://user-images.githubusercontent.com/78853972/107875166-50ac4c80-6ee4-11eb-93d3-e912f1712273.png)
-![FeaturesBehaviouralDiagram](Link to Pic)
+
+![Volume Diagram LLR](https://user-images.githubusercontent.com/78857458/107875062-c9f76f80-6ee3-11eb-93be-5f24da916caf.jpg)
+
