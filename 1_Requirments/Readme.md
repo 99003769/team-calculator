@@ -18,25 +18,15 @@ Calculator is a scientific device which is used to perform calculations,like ari
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who:Everyone can use this calculator especially scientist and students.
 
-**TBD**
+## What:Its a smart scientific calculator.
 
-## What:
+## When:For fast,efficient and complex calculations.
 
-**TBD**
+## Where:Calculations,Statistics(comparing the previous data with present data). 
 
-## When:
-
-**TBD**
-
-## Where:
-
-**TBD**
-
-## How:
-
-**TBD**
+## How:Easy to user interface.
 
 # Detail requirements
 ## High Level Requirements: 
