@@ -4,7 +4,7 @@
 ## High Level Design 
 
 --- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
+![Class HLR.pdf](https://github.com/99003769/team-calculator/files/5977565/Class.HLR.pdf)
 ![HighLevelBehaviouralDiagram](Link to Pic)
 
 ## Low Level Design 
