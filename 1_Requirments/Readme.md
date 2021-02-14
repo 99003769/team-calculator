@@ -4,16 +4,15 @@ Calculator is a scientific device which is used to perform calculations,like ari
 
 
 ## Research
-Cslculators range from few hundreds to few thousands of rupees based on the features they provide. Simple calculators can range from few hundreds, and scientific calculators are a bit more than Rs 700.
+![Description](Link to Pic)
 ![TOUCHCAL-Touchscreen-Scientific-Calculator-2](https://user-images.githubusercontent.com/78857841/107878239-35970800-6ef7-11eb-9a86-d977480e0a5d.jpg)
-These touch calculators can range from thousand of rupees.But they offer a lot more features than the standard scientific calculators.
 ![414USefbELL _SX425_](https://user-images.githubusercontent.com/78857841/107878265-624b1f80-6ef7-11eb-8d20-d5cae7a30274.jpg)
 -- Content 
 ## Cost and Features
 ![IMG_20210214_180921](https://user-images.githubusercontent.com/78857458/107877147-9242f480-6ef0-11eb-8dd7-5e5d3efa82a7.jpg)
 
 ## Defining Our System
-    -- TBD
+    As a name describe that it is a smart calculator it can done complex operations in less time and it is user friendly,we can done various type of perations in it
 ## SWOT ANALYSIS
 
 ![SWOT-page0001](https://user-images.githubusercontent.com/78857458/107876259-f1056f80-6eea-11eb-868c-049350074b1a.jpg)
