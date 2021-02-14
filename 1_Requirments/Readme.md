@@ -1,6 +1,7 @@
 # Requirements
 ## Introduction
- --- TBD 
+Calculator is a scientific device which is used to perform calculations,like arithmetic calculations,logical calculations, exponential calculations,trignometic calculations and much more. In some calculators,we can also insert equations in raw format can we can obtain the results.
+
 
 ## Research
 ![Description](Link to Pic)
