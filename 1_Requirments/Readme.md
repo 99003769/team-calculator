@@ -5,6 +5,8 @@ Calculator is a scientific device which is used to perform calculations,like ari
 
 ## Research
 ![Description](Link to Pic)
+![TOUCHCAL-Touchscreen-Scientific-Calculator-2](https://user-images.githubusercontent.com/78857841/107878239-35970800-6ef7-11eb-9a86-d977480e0a5d.jpg)
+![414USefbELL _SX425_](https://user-images.githubusercontent.com/78857841/107878265-624b1f80-6ef7-11eb-8d20-d5cae7a30274.jpg)
 -- Content 
 ## Cost and Features
 ![IMG_20210214_180921](https://user-images.githubusercontent.com/78857458/107877147-9242f480-6ef0-11eb-8dd7-5e5d3efa82a7.jpg)
