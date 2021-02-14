@@ -13,6 +13,8 @@
 - **Square root function**
 - **Matrix calculation**
 - **Factorial calculation**
+- **HCF**
+- **LCM**
 
 # **Low level Requirment**
 
