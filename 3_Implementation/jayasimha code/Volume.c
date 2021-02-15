@@ -14,14 +14,14 @@ int main()
      scanf("%d",&side);
      printf("enter name of object");
      scanf("%c",&volume);
-     switch(volume)
+     switch (volume)
      {
         case 'sphere':
             volume_sphere = (4/3.0)*3.14*radius*radius*radius;
             printf("\nVolume of Sphere = %f",volume_sphere);
             break;
         case 'cone':
-            volume_cone=(1/3)*height*3.14*radius*radius);
+            volume_cone=(1/3)*height*3.14*radius*radius;
             printf("\nVolume of cone = %f",volume_cone);
             break;
         case 'cube':
@@ -30,6 +30,8 @@ int main()
             break;
         default:
              printf("object not found");
-      }
+             
+     }
      return 0;
 }
+
