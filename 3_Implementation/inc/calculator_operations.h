@@ -53,8 +53,6 @@ int divide(int operand1, int operand2);
 */
 float temperature_conversion_c_to_f(float input_temperature);
 
-#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
-
 /**
 * converts fahrenheit to celsius and returns the result 
 * @param[in] input_temperature 
@@ -62,4 +60,4 @@ float temperature_conversion_c_to_f(float input_temperature);
 */
 float temperature_conversion_f_to_c(float input_temperature);
 
-#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+endif  /* #define __CALCULATOR_OPERATIONS_H__ */
