@@ -5,12 +5,6 @@
 #include <calculator_operations.h>
 #define PROJECT_NAME    "Calculator"
 
-/* Prototypes for all the test functions */
-void test_triangle(void);
-void test_triangle_testcase2(void);
-void test_square(void);
-void test_rectangle(void);
-
 /* Required by the unity test framework */
 void setUp(){}
 /* Required by the unity test framework */
