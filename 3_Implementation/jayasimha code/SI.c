@@ -11,5 +11,5 @@ int main()
     scanf("%f",&ROI);
     simple_interest = (principle_amount * time * ROI) / 100;
     printf("Simple Interest = %f", simple_interest);
-    return 0;
+    return 0
 }
