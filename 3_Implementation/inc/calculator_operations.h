@@ -45,3 +45,11 @@ int multiply(int operand1, int operand2);
 int divide(int operand1, int operand2);
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+/**
+* converts celcius to fahrenheit and returns the result 
+* @param[in] input_temperature 
+* @return floating value of the conversion
+*/
+float temperature_conversion_c_to_f(float input_temperature);
+
+#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
