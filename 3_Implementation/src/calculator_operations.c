@@ -22,3 +22,7 @@ int divide(int operand1, int operand2)
     else
         return operand1 / operand2;
 }
+int temperature_conversion(float input)
+{
+    return ((input * (9/5)) + 32);
+}
