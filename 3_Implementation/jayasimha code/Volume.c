@@ -32,6 +32,6 @@ int main()
              printf("object not found");
              
      }
-     return 0
+     return 0;
 }
 
