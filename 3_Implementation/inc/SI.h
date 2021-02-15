@@ -4,4 +4,5 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdio_ext.h>
-float simple_interest(time,ROI,simple_interest);
+void simple_interest(float time,float ROI,float simple_interest);
+#endif
