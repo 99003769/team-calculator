@@ -30,7 +30,13 @@ int main()
 }
 
 /* Write all the test functions */ 
-void test_temperature_conversion(void) {
-  TEST_ASSERT_EQUAL(1738525559, temperature_conversion(965847515));
-  TEST_ASSERT_EQUAL("range out of bound", temperature_conversion(965847515));
+void test_temperature_conversionc_to_f(void) {
+  TEST_ASSERT_EQUAL(1738525559, temperature_conversion_c_to_f(965847515));
+  TEST_ASSERT_EQUAL("range out of bound", temperature_conversion_c_to_f(965847515));
 }
+/* Write all the test functions */ 
+void test_temperature_conversion_f_to_c(void) {
+  TEST_ASSERT_EQUAL(5485840347.7787, temperature_conversion_f_to_c(9874512658));
+  TEST_ASSERT_EQUAL("range out of bound", temperature_conversion_f_to_c(9874512658));
+}
+
