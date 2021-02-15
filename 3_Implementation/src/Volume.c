@@ -1,6 +1,6 @@
 #include<VOLUME_CALCULATOR.h>
 #include<stdio.h>
-void volume_calculator()
+void volume_calc()
 {
      int radius, height, side ;
      float volume_sphere,volume_cone,volume_cube,cone,cube,sphere;
