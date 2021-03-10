@@ -4,7 +4,6 @@
 int main()
 {
     int x,y,z,fact;
-    factfind_factorial(5);
     x=rect_area(5,6); // calling function rect_area
     x=square_area(5);
     z=triangle_area(5,6);
