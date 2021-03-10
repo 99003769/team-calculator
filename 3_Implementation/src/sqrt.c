@@ -1,6 +1,6 @@
 
 
-#define __SQRT_H
+#include<sqrt.h>
 double square_Root (double n)
 {
   
