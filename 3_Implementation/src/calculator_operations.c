@@ -22,7 +22,7 @@ int divide(int operand1, int operand2)
     else
         return operand1 / operand2;
 }
-int temperature_conversionc_to_f(float input)
+/*int temperature_conversionc_to_f(float input)
 {
     return ((input * (9/5)) + 32);
 }
@@ -30,4 +30,4 @@ int temperature_conversionc_to_f(float input)
 int temperature_conversion_f_to_c(float input)
 {
     return ((input - 32) × (5/9));
-}
+} */
