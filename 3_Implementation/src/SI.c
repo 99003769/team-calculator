@@ -1,4 +1,5 @@
   
+#include<si.h>
 #include<stdio.h>
 float interest(int P,float R, int T)
 {
