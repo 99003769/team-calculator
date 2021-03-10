@@ -1,9 +1,7 @@
 
-#ifndef __SQRT_OPERATIONS_H
-#define __SQRT_OPERATIONS_H
-
+#ifndef __SQRT_H
+#define __SQRT_H
 #include <stdio.h>
 
-void sqrt_operations( double n1 );
 
 #endif
