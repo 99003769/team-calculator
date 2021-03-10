@@ -1,3 +1,6 @@
+
+
+#define __SQRT_H
 double square_Root (double n)
 {
   
