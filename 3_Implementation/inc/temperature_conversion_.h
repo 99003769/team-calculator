@@ -1,7 +1,5 @@
-/** 
-* @file calculator_operations.h
-* Calculator application with 4 mathematical operations
-*
+/* 
+For temperature conversion
 */
 #ifndef __CALCULATOR_TEMPERATURE_CONVERSION_H__
 #define __CALCULATOR_TEMPERATURE_CONVERSION_H__
@@ -17,4 +15,4 @@
 */
 float temperature_conversion_f_to_c(float input_temperature);
 
-endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+endif
