@@ -3,13 +3,12 @@
 * Calculator application with 4 mathematical operations
 *
 */
-#ifndef __CALCULATOR_OPERATIONS_H__
-#define __CALCULATOR_OPERATIONS_H__
+#ifndef __CALCULATOR_TEMPERATURE_CONVERSION_H__
 #define __CALCULATOR_TEMPERATURE_CONVERSION_H__
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdio_ext.h>
+/*#include <stdio_ext.h> */
 
 /**
 * converts fahrenheit to celsius and returns the result 
