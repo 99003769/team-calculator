@@ -9,13 +9,13 @@ int rect_area(int length,int width)
 }
 int square_area(int length)
 {
-     int area;
+     int area1;
      area=length*length;
-     return area;
+     return area1;
 }
 int triangle_area(int length,int width)
 {
-     int area;
+     int area2;
      area=0.5*length*width;
-     return area;
+     return area2;
 }
