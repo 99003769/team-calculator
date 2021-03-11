@@ -1,3 +1,6 @@
+#include "area.h"
+
+
 int rect_area(int length,int width)
 {
      int area;
