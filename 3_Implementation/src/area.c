@@ -15,3 +15,4 @@ int triangle_area(int length,int width)
      int area;
      area=0.5*length*width;
      return area;
+}
