@@ -1,36 +1,27 @@
 #include<stdio.h>
+
+float addition(float num_1, float num_2)
+{
+   
+   float sum;
+
+   sum = num_1 + num_2;
+
+   return sum;
+}
+
 int main()
 {
-int Num1,Num2,rows,columns;
-printf("Enter number of rows\n");
-scanf("%d",&rows);
-printf("Enter number of columns\n");
-scanf("%d",&columns);
-int a1[rows][columns],a2[rows][columns],add[rows][columns];
-printf("Enter Matrix 1\n");
-for(Num1=0;Num1<rows;Num1++)
-{
-for(Num2=0;Num2<columns;Num2++)
-{
-scanf("%d",&a1[Num1][Num2]);
-}
-}
-printf("Enter Matrix 2\n");
-for(Num1=0;Num1<rows;Num1++)
-{
-for(Num2=0;Num2<columns;Num2++)
-{
-    add[Num1][Num2]=a1[Num1][Num2]+a2[Num1][Num2];
-}
-}
-printf("Addition of above matrices is\n");
-for(Num1=0;Num1<rows;Num1++)
-{
-for(Num2=0;Num2<columns;Num2++)
-{
-printf("%d\t",add[Num1][Num2]);
-}
-printf("\n");
-}
-return 0;
+   
+   float number1, number2, result;
+
+   printf("Enter two number: ");
+   scanf("%f %f",&number1, &number2);
+
+   result = addition(number1, number2);
+
+   printf("%.2f + %.2f = %.2f\n",
+               number1, number2, result);
+
+   return 0;
 }
