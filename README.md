@@ -10,6 +10,10 @@
 [![Cppcheck](https://github.com/99003769/team-calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003769/team-calculator/actions/workflows/cppcheck.yml)
 
 
+[![Build Status](https://github.com/99003769/team-calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003769/team-calculator/actions/workflows/c-cpp.yml)
+
+
+
 team-calculator
 
 
