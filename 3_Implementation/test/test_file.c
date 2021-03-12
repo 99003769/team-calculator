@@ -41,7 +41,7 @@ void test_positive_triangle_area()
 }
 void test_Negative_triangle_area()
 {
-   TEST_ASSERT_EQUAL(-20, triangle_area(-12,10));
+   TEST_ASSERT_EQUAL(-60, triangle_area(-12,10));
 }
 
 int main(void)
