@@ -41,6 +41,6 @@ int main()
    float interest(int P,float R, int T); 
    double square_Root (double n);
    float volumeofcone(float a,float b);
-
-
 }
+
+
