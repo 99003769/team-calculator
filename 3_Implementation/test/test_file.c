@@ -3,6 +3,8 @@
 #include "calculator_operation.h"
 #include "factorial.h"
 #include "area.h"
+#include "profit_loss.h"
+#include "Dec_to_bin.h"
 
 /* Prototypes for all the test functions */
 void test_add(void);
@@ -12,6 +14,14 @@ void test_multiply(void);
 void test_divide(void);
 void test_temperature_conversion_f_to_c(void);
 void test_temperature_conversion_c_to_f(void);
+
+void test_profit(void);
+void test1_profit(void);
+void test2_profit(void);
+void test3_profit(void);
+void test_loss(void);
+void test1_loss(void);
+void test_dectobin(void);
 
 
 /* Required by the unity test framework */
@@ -62,6 +72,30 @@ void test_Negative_triangle_area()
 
 /////////////  ankit
 
+
+/* Write all the test functions */ 
+void test_profit(void) {
+  TEST_ASSERT_EQUAL(180, profit(20, 200));
+}
+void test1_profit(void) {
+  TEST_ASSERT_EQUAL(100, profit(100, 200));
+}
+void test2_profit(void) {
+  TEST_ASSERT_EQUAL(50, profit(50, 100));
+}
+void test3_profit(void) {
+  TEST_ASSERT_EQUAL(10, profit(10, 20));
+}
+  
+
+void test_loss(void) {
+ 
+  
+   TEST_ASSERT_EQUAL(20, loss(100, 80));
+}
+void test1_loss(void) {
+   TEST_ASSERT_EQUAL(20, loss(50, 30));
+}
 
 void test_add(void) {
   TEST_ASSERT_EQUAL(30, add(10, 20));
@@ -114,6 +148,17 @@ void test_temperature_conversion_c_to_f(void) {
   TEST_ASSERT_EQUAL(132, temperature_conversion_c_to_f(100));
 }
 
+void test_dectobin(void)
+{
+  TEST_ASSERT_EQUAL(1010, dectobin(10));
+  TEST_ASSERT_EQUAL(101, dectobin(5));
+
+  TEST_ASSERT_EQUAL(111111, dectobin(63));
+  TEST_ASSERT_EQUAL(11101, dectobin(29));
+
+  TEST_ASSERT_EQUAL(1110, dectobin(14));
+  TEST_ASSERT_EQUAL(110, dectobin(6));
+}
 
 int main(void)
 {
@@ -142,7 +187,13 @@ int main(void)
   RUN_TEST(test_Negative_rect_area);
   RUN_TEST(test_Negative_triangle_area);
 
-return UNITY_END();
-  
-  
+  RUN_TEST(test_profit);
+  RUN_TEST(test1_profit);
+  RUN_TEST(test2_profit);
+  RUN_TEST(test3_profit);
+  RUN_TEST(test_loss);
+  RUN_TEST(test1_loss);
+  RUN_TEST(test_dectobin);
+
+return UNITY_END(); 
 }
