@@ -16,7 +16,6 @@
 |  L_02       |  Multiplication                                              | 2500, 2500 |  6250000    |  6250000       | Boundary based    |
 |  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
  
-## Test case by Ankit
 
 ## Table no: High level test plan
 
@@ -35,9 +34,6 @@
 |  L_03       |  Area of Triangle                                            |  12, 8|  48  | 48 |Boundary based  |
 |  L_04       |  Area of Circle                                            | 7 | 154 | 154 |Boundary based  |
  
- 
- 
- ## Test case by Danish
  
  ## Table no: High level test plan
 
