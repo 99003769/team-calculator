@@ -22,3 +22,11 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003769 | Ankit Raj | Area, Factorial, length conversion | 2 | 2 | 7 | 7 
 99003770 | Danish Alam |Profit loss, Decimal to binary | 2 | 2 | 7 | 7 
 99003766 | Jayasimha | volume, simple interest | 2 | 2 | 6 | 6 
+
+
+
+git inspector:
+![gir_inspector_calculator](https://user-images.githubusercontent.com/78857841/111027847-d5718400-8418-11eb-9c62-94d08a7c379a.png)
+
+git test cases
+![test_cases_calculator](https://user-images.githubusercontent.com/78857841/111027883-094ca980-8419-11eb-8872-3bba8c097f1f.png)
