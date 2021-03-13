@@ -35,3 +35,23 @@
 |  L_03       |  Area of Triangle                                            |  12, 8|  48  | 48 |Boundary based  |
 |  L_04       |  Area of Circle                                            | 7 | 154 | 154 |Boundary based  |
  
+ 
+ 
+ ## Test case by Danish
+ 
+ ## Table no: High level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  H_01       | profit_loss                                                  |   40, 20   |     20      |       20       |Requirement based |
+|  H_02       | Decimal to Binary                                            |    2     |     1 0     |       1  0   |Scenario based    |
+|  H_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+
+## Table no: Low level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  L_01       |  profit                                                      |  20, 10    |     10    |     10       |Requirement based |
+|  L_02       |  loss                                                        |  12, 24    |     12    |     12      | Boundary based   |
+|  L_03       |  profit                                                      |  12, 8     |     4     |      4       |Boundary based  |
+|  L_04       |  loss                                                        | 10, 20     |     10    |     10     |Boundary based  |
