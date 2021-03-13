@@ -195,5 +195,7 @@ int main(void)
   RUN_TEST(test1_loss);
   RUN_TEST(test_dectobin);
 
-return UNITY_END(); 
+return UNITY_END();
+  
+  
 }
