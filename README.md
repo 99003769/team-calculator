@@ -21,4 +21,4 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003768 | U.Vijay | Arithmetic operations,temperature conversion | 2 | 2 | 7 | 7    
 99003769 | Ankit Raj | Area, Factorial, length conversion | 2 | 2 | 7 | 7 
 99003770 | Danish Alam |Profit loss, Decimal to binary | 2 | 2 | 7 | 7 
-99003766 | Jayasimha | volume, simple interest | 3 | 2 | 4 | 4 
+99003766 | Jayasimha | volume, simple interest | 2 | 2 | 6 | 6 
