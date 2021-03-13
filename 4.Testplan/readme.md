@@ -48,6 +48,27 @@
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |  profit                                                      |  20, 10    |     10    |     10       |Requirement based |
-|  L_02       |  loss                                                        |  12, 24    |     12    |     12      | Boundary based   |
-|  L_03       |  profit                                                      |  12, 8     |     4     |      4       |Boundary based  |
-|  L_04       |  loss                                                        | 10, 20     |     10    |     10     |Boundary based  |
+|  L_02       |  loss                                                        |  12, 24    |     12    |     12      | Requirement based   |
+|  L_03       |  profit                                                      |  12, 8     |     4     |      4       |Requirement based  |
+|  L_04       |  loss                                                        | 10, 20     |     10    |     10     |Requirement based  |
+
+
+
+ ## Table no: High level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  H_01       | Simple_Interest                                              |   100, 2, 12  |     24      |       24       |Requirement based |
+|  H_02       | Square_Root                                            |    64     |     8     |       8   |Requirement based    |
+|  H_03       | Volume                                             | 5, 10 |261.80 |261.80 |Requirement based    |
+
+## Table no: Low level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  L_01       |  Simple_interest                                                     |  1000, 2, 12    |     240    |     240       |Requirement based |
+|  L_02       |  Square_root                                                        |  144    |     12    |     12      | Requirement based   |
+|  L_03       |  volume for cone                                                      |  7, 14     |     718.38     |      718.38       |Requirement based  |
+
+
+
