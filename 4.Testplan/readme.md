@@ -30,8 +30,8 @@
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |  Area of Square                                              |  5      |     25     |     25       |Requirement based |
-|  L_02       |  Area of Rectangle                                           |  12,12 |  144    |  144       | Boundary based   |
-|  L_03       |  Area of Triangle                                            |  12, 8|  48  | 48 |Boundary based  |
+|  L_02       |  Area of Rectangle                                           |  12,12 |  144    |  144       | Requirement based   |
+|  L_03       |  Area of Triangle                                            |  12, 8|  48  | 48 |Requirement based  |
 |  L_04       |  Area of Circle                                            | 7 | 154 | 154 |Boundary based  |
  
  
