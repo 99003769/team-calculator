@@ -1,3 +1,3 @@
 
 UML diagrams for low level requirements.
-Arithmetic operations, Temperature conversion
+Addition , Subtraction, Multiplication, Divison operations, Temperature conversion
