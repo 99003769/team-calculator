@@ -5,6 +5,8 @@
 ## High Level Design 
 
 --- TBD Structural and Behavioural Diagram
+![llr volume](https://user-images.githubusercontent.com/78857458/111110096-f30e2d00-8581-11eb-95e2-36fdfae70858.PNG)
+
 
 ![Arithmetc calculator](https://user-images.githubusercontent.com/78857841/111106632-6eb8ab80-857b-11eb-9c03-8caffb62ddf0.jpg)
 ![Capture1](https://user-images.githubusercontent.com/78854076/111108925-cf49e780-857f-11eb-9078-1e74e2b22e6c.PNG)
