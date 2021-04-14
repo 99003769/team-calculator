@@ -38,7 +38,7 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |  Positive number factorial                                   |  5      |     SUCESS 120    |     25       |Requirement based |
+|  L_01       |  Positive number factorial                                   |  5      |     SUCCESS 120    |     120       |Requirement based |
 |  L_02       |  factorial of Zero                                           |  0 |  ZERO   |  ZERO      | Requirement based   |
 |  L_03       |  Negative number factorial                                           | -4 |  NEGATIVE_NUMBER  | NEGATIVE_NUMBER |Requirement based  |
 
